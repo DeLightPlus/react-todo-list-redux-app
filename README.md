@@ -31,7 +31,7 @@ A simple Todo List application built with React and Redux Toolkit. This app allo
    git clone https://github.com/DeLightPlus/react-todo-list-redux-app.git
 2. Navigate to the project directory:
    ```bash
-   cd todo-list-app
+   cd react-todo-list-redux-app
 3. Install the dependencies:
    Using npm:
    ```bash
@@ -40,7 +40,16 @@ A simple Todo List application built with React and Redux Toolkit. This app allo
    ```bash
    npm start
 The app will be running on http://localhost:3000.
-  
+
+
+#### Usage
+1. Add a new todo by entering a task in the input field and clicking the "Add" button.
+2. Remove a todo by clicking the "Delete" button next to it.
+
+#### Acknowledgments
+* Redux Toolkit
+* React
+* Create React App
 ---
 # Getting Started with Create React App
 
