@@ -1,3 +1,47 @@
+# Todo List App
+
+A simple Todo List application built with React and Redux Toolkit. This app allows users to add, remove, and toggle tasks as completed.
+
+## Features
+
+- Add new todo items
+- Remove existing todo items
+- Toggle the completion status of todos
+- Persistent storage using local storage
+
+## Technologies Used
+
+- React
+- Redux Toolkit
+- CSS Modules
+- React Icons (for better UI)
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v12 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/DeLightPlus/react-todo-list-redux-app.git
+2. Navigate to the project directory:
+   ```bash
+   cd todo-list-app
+3. Install the dependencies:
+   Using npm:
+   ```bash
+   npm install
+4. Start the development server:
+   ```bash
+   npm start
+The app will be running on http://localhost:3000.
+  
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
